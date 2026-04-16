@@ -1,13 +1,13 @@
 # Hello! I'm Hamza Gouyfelyane
 
 **Computer Science Student @ EMSI | Full-Stack Developer & AI Enthusiast**
-📍 Tangier, Morocco 🇲🇦
+Tangier, Morocco
 
 I am a computer science student bridging the gap between high-performance local AI computing and creative web development. I specialize in building smart systems, self-hosting infrastructure, and crafting immersive web experiences.
 
 ---
 
-###  Featured Project: Adsum
+### Featured Project: Adsum
 
 **[Adsum](https://github.com/H4zeyaf/Adsum)** is a comprehensive, web-based smart classroom attendance system designed to replace manual tracking with an automated, AI-driven architecture. 
 
@@ -19,7 +19,7 @@ I am a computer science student bridging the gap between high-performance local 
 
 ---
 
-###  Tech Stack & Tools
+### Tech Stack & Tools
 
 **AI & Machine Learning**
 ![InsightFace](https://img.shields.io/badge/InsightFace-1E90FF?style=for-the-badge)
@@ -41,7 +41,7 @@ I am a computer science student bridging the gap between high-performance local 
 
 ---
 
-###  Hardware & Infrastructure
+### Hardware & Infrastructure
 I run dedicated local setups for model training, testing, and self-hosted media/services:
 
 | Environment | CPU | GPU | Purpose |
@@ -51,7 +51,7 @@ I run dedicated local setups for model training, testing, and self-hosted media/
 
 ---
 
-###  GitHub Activity
+### GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=H4zeyaf&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -60,6 +60,6 @@ I run dedicated local setups for model training, testing, and self-hosted media/
 <br>
 
 <div align="center">
-  <a href="https://hamzagouyfelyane.me">🌐 Portfolio</a> • 
-  <a href="mailto:hamza.gouyfelyane@emsi-edu.ma">📧 Contact Me</a>
+  <a href="https://hamzagouyfelyane.me">Portfolio</a> • 
+  <a href="mailto:hamza.gouyfelyane@emsi-edu.ma">Contact Me</a>
 </div>
