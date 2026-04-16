@@ -7,27 +7,31 @@ I am a computer science student bridging the gap between high-performance local 
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Project: Adsum
 
-* **[Adsum](https://github.com/H4zeyaf/adsum)**: A smart classroom attendance system. Built to replace legacy CSV-logging with a robust database architecture, powered by **YOLOv8** and **DeepFace** for automated facial recognition.
-* **OpenClaw Node**: Custom daemon and infrastructure setup deployed on DigitalOcean VPS for managing localized tasks and web services.
-* **Creative Web Portfolio**: A showcase of 3D animations and fluid UI/UX, built with React, GSAP, and Spline, hosted via GitHub Pages with custom DNS/SSL routing.
+**[Adsum](https://github.com/H4zeyaf/Adsum)** is a comprehensive, web-based smart classroom attendance system designed to replace manual tracking with an automated, AI-driven architecture. 
+
+**Key Features & Architecture:**
+* **Real-Time Facial Recognition:** Powered by **InsightFace** and **OpenCV** on a Python backend to detect and verify students with high accuracy, utilizing GPU acceleration when available.
+* **Interactive Web Dashboard:** A responsive frontend interface featuring live MJPEG camera streaming with bounding boxes, real-time metric tracking (AI FPS, current student counts), and attendance log visualization.
+* **Robust Backend API:** Built with **Flask**, exposing RESTful endpoints for deep camera controls, runtime detection resolution switching, and dynamic recognition modes (continuous vs. interval-based tracking).
+* **Smart Logging & Registration:** Implements strict "one-attendance-per-student-per-day" logic to prevent duplicate database entries, alongside the ability to register new students directly from the live camera feed into the system's tracking database.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
 **AI & Machine Learning**
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![DeepFace](https://img.shields.io/badge/DeepFace-1E90FF?style=for-the-badge)
+![InsightFace](https://img.shields.io/badge/InsightFace-1E90FF?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
-![LM_Studio](https://img.shields.io/badge/LM_Studio-5A00FF?style=for-the-badge)
 
-**Frontend & Creative Dev**
+**Frontend & Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Spline](https://img.shields.io/badge/Spline-FF00B3?style=for-the-badge&logo=spline&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Infrastructure & Environment**
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
