@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hamza Gouyfelyane
+# Hello! I'm Hamza Gouyfelyane
 
 **Computer Science Student @ EMSI | Full-Stack Developer & AI Enthusiast**
 📍 Tangier, Morocco 🇲🇦
@@ -7,7 +7,7 @@ I am a computer science student bridging the gap between high-performance local 
 
 ---
 
-### 🚀 Featured Project: Adsum
+###  Featured Project: Adsum
 
 **[Adsum](https://github.com/H4zeyaf/Adsum)** is a comprehensive, web-based smart classroom attendance system designed to replace manual tracking with an automated, AI-driven architecture. 
 
@@ -19,7 +19,7 @@ I am a computer science student bridging the gap between high-performance local 
 
 ---
 
-### 💻 Tech Stack & Tools
+###  Tech Stack & Tools
 
 **AI & Machine Learning**
 ![InsightFace](https://img.shields.io/badge/InsightFace-1E90FF?style=for-the-badge)
@@ -41,7 +41,7 @@ I am a computer science student bridging the gap between high-performance local 
 
 ---
 
-### ⚙️ Hardware & Infrastructure
+###  Hardware & Infrastructure
 I run dedicated local setups for model training, testing, and self-hosted media/services:
 
 | Environment | CPU | GPU | Purpose |
@@ -51,7 +51,7 @@ I run dedicated local setups for model training, testing, and self-hosted media/
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=H4zeyaf&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
