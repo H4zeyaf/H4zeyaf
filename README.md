@@ -22,7 +22,6 @@ I am a computer science student bridging the gap between high-performance local 
 ### Tech Stack & Tools
 
 **AI & Machine Learning**
-![InsightFace](https://img.shields.io/badge/InsightFace-1E90FF?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![LMStudio](https://img.shields.io/badge/LMStudio-FFFFFF?style=for-the-badge&logo=lmstudio&logoColor=black)
