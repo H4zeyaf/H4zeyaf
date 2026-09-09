@@ -25,7 +25,7 @@ I am a computer science student bridging the gap between high-performance local 
 ![InsightFace](https://img.shields.io/badge/InsightFace-1E90FF?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
+![LMStudio](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=lmstudio&logoColor=black)
 
 **Frontend & Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
