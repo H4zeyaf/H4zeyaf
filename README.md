@@ -51,11 +51,6 @@ I run dedicated local setups for model training, testing, and self-hosted media/
 
 ---
 
-### GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H4zeyaf&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
 
 <br>
 
