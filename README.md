@@ -3,7 +3,7 @@
 **Computer Science Student @ EMSI | Full-Stack Developer & AI Enthusiast**
 Tangier, Morocco
 
-I am a computer science student bridging the gap between high-performance local AI computing and creative web development. I specialize in building smart systems, self-hosting infrastructure, and crafting immersive web experiences.
+I’m a computer science student working across local AI deployment, self-hosted infrastructure, and front-end development.
 
 ---
 
