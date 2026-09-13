@@ -1,7 +1,6 @@
 # Hello! I'm Hamza Gouyfelyane
 
 **Computer Science Student @ EMSI | Full-Stack Developer & AI Enthusiast**
-Tangier, Morocco
 
 I’m a computer science student working across local AI deployment, self-hosted infrastructure, and front-end development.
 
